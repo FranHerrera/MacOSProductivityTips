@@ -22,8 +22,8 @@ We have made the inclusion of settings to relaunch **[Hammerspoon](https://www.h
 </thead>
 <tbody>
 <tr>
-<td>Reload config</td>
-<td>Ctrl + Option + Cmd + r</td>
+<td>*Reload config*</td>
+  <td><code>Ctrl + Option + Cmd + r</code></td>
 </tr>
 </tbody>
 </table>
