@@ -55,3 +55,59 @@ We have made the inclusion of settings to relaunch **[Hammerspoon](https://www.h
     </tr>
   </tbody>
 </table>
+
+### Resize window
+<table>
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>Key combination</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><i>Left</i></td>
+      <td><code>Ctrl + Option + Cmd + left</code></td>
+    </tr>
+    <tr>
+      <td><i>Right</i></td>
+      <td><code>Ctrl + Option + Cmd + right</code></td>
+    </tr>
+    <tr>
+      <td><i>Top</i></td>
+      <td><code>Ctrl + Option + Cmd + top</code></td>
+    </tr>
+    <tr>
+      <td><i>Down</i></td>
+      <td><code>Ctrl + Option + Cmd + down</code></td>
+    </tr>
+  </tbody>
+</table>
+
+### Move window
+<table>
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>Key combination</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><i>Left</i></td>
+      <td><code>Ctrl + Option + Cmd + Shift + left</code></td>
+    </tr>
+    <tr>
+      <td><i>Right</i></td>
+      <td><code>Ctrl + Option + Cmd + Shift  + right</code></td>
+    </tr>
+    <tr>
+      <td><i>Top</i></td>
+      <td><code>Ctrl + Option + Cmd + Shift  + top</code></td>
+    </tr>
+    <tr>
+      <td><i>Down</i></td>
+      <td><code>Ctrl + Option + Cmd + Shift  + down</code></td>
+    </tr>
+  </tbody>
+</table>
